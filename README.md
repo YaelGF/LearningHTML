@@ -28,4 +28,5 @@ git clone https://github.com/YaelGF/LearningHTML.git
 ![HTML Labels](/assets/HTMLLabel.png)
 ![Css Labels](/assets/CSSLabel.png)
 # License
-[Apache License 2.0](https://github.com/kubernetes/ingress-nginx/blob/main/LICENSE)
+[Apache License 2.0](https://github.com/YaelGF/LearningHTML/blob/main/LICENSE)
+
